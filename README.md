@@ -11,6 +11,7 @@ The purpose of this program was to establish a foundational step in my journey a
 * Python 3.10
 * Visual Studio Code
 * VS Code Python Extension
+* Git / GitHub
 
 # Useful Websites
 
